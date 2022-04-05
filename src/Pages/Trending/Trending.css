@@ -1,0 +1,14 @@
+.Trending{
+    display: flex;
+    flex-wrap: wrap;
+       justify-content: space-around;
+       padding-top: 20px;
+       padding-bottom: 80px;
+}
+.PageTitle{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+ padding-top: 60px;
+  
+}

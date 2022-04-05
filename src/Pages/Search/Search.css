@@ -1,0 +1,40 @@
+.searchBar{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 80px;
+    
+   
+}
+input text{
+    font-size: 25px;
+}
+.searchBar input{
+    width: 100%;
+    margin:0px;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    
+}
+input{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+::-webkit-input-placeholder {
+    text-align: center;
+  }
+  
+  :-moz-placeholder {
+    text-align: center;
+  }
+.btnSearch{
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: rgb(240, 73, 58);
+    color: white;
+}
